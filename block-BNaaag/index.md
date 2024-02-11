@@ -15,3 +15,4 @@ fs.readFile('./content.md'// filepath, (err, file) => {
 3. Run async code from fs module in same file.
 4. create new buffer of fixed length 10 and store it in variable named buff1 and console the buff1.
 5. write content(Welcome to Buffer) to buff1 variable.
+6. 
