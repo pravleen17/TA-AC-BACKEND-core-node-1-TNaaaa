@@ -28,3 +28,4 @@ Q. In server.js
 4. console pathname
 5. console protocol
 6. use parse method from url module to parse query string as well.
+7. 
